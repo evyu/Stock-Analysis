@@ -1,2 +1,2 @@
 # Stock-Analysis
-Email Notification for High Volume and Trending Tickers throughout the day
+Automatic saving High Volume and Trending Tickers throughout the day into Google Sheets
